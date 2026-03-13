@@ -1,0 +1,8 @@
+{
+  "java.project.sourcePaths": ["src"],
+  "chat.fontSize": 11,
+  "editor.fontSize": 13,
+  "chat.fontFamily": "poppins",
+  "java.project.outputPath": "bin",
+  "java.project.referencedLibraries": ["lib/**/*.jar"]
+}
